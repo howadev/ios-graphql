@@ -9,7 +9,7 @@
 import UIKit
 import Apollo
 
-let apollo = ApolloClient(url: URL(string: "__SIMPLE_API_ENDPOINT__")!)
+let apollo = ApolloClient(url: URL(string: "https://api.graph.cool/simple/v1/cjs3std8m1toy0161yvirro0u")!)
 
 
 @UIApplicationMain

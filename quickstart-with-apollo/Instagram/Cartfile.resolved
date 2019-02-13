@@ -1,2 +1,4 @@
-github "rs/SDWebImage" "4.0.0"
-github "apollostack/apollo-ios" "0.5.6"
+github "apollostack/apollo-ios" "0.9.5"
+github "daltoniam/Starscream" "3.0.6"
+github "rs/SDWebImage" "4.4.5"
+github "stephencelis/SQLite.swift" "0.11.5"

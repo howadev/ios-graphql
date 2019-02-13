@@ -1,0 +1,3 @@
+targets:
+  QuickStart: shared-us-west-2/cjs3std8m1toy0161yvirro0u
+  default: QuickStart

@@ -15,7 +15,9 @@ xcuserdata/
 
 ## Other
 *.moved-aside
-*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
+.DS_Store
 
 ## Obj-C/Swift specific
 *.hmap
@@ -47,3 +49,7 @@ playground.xcworkspace
 # Carthage/Checkouts
 
 Carthage/Build
+
+# Local Node Modules for Apollo CLI
+node_modules/
+package-lock.json
